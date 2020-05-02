@@ -34,7 +34,7 @@ With many remote summer internships starting in about a month, I wanted to share
 
 - Meet and share the experience with other interns. Just because you don't share the same office space doesn't mean you shouldn't meet each other. Organize weekly chats, talk about work, life, favorite movies, shows, games, books. Make a shared Spotify playlist. **Socialize**.
 
-  - > Moving to a different side of the globe and doing an internship in San Francisco was a big move for me this year. A big part of it was getting to know awesome people from top US / Canada Universities, exchanging our career experiences, having fun, and planning for the future. Just because the internship had to be a remote one due to COVID-19, don't let it stop you from new connections.
+  - > Moving to a different side of the globe and doing an internship in San Francisco was supposed to be a big move for me this year. A big part of it would be getting to know awesome people from top US / Canadian Universities, exchanging our career experiences, having fun, and planning for the future. Just because the internship has to be a remote one due to COVID-19, don't let it stop you from new connections.
 
 - Step up your asynchronous communication game. With your teammates not being in the same office, or even the same time zone, it's essential to give your best at communicating things.
   - Go over long domain-specific messages you're about to send. Make sure there is enough information for the other side to understand you. If possible, use markdown-like syntax inside Slack for better formatting.
