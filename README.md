@@ -2,6 +2,10 @@
 
 > friendly remote internship advice so you make the most out of it this summer ☀️
 
+<p align="center">
+  <img width="256" height="256" src="https://github.com/fejes713/remote-internship-advice/blob/master/assets/bridge.png">
+</p>
+
 With remote summer internships starting in about a month, I wanted to share a few pieces of advice that helped me have an enjoyable experience and get return offers from last 4 internships and land my 5th at @github this summer.
 
 - Reach out to your manager if you haven't already, say hi, introduce yourself and share the excitement about the internship. Don't overcomplicate it; they're just individuals like you and me. Getting to know people before starting to work with them is a great start.
