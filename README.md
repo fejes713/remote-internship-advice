@@ -1,4 +1,4 @@
-# remote-internship-adivce
+# remote-internship-advice
 
 > friendly remote internship advice so you make the most out of it this summer ☀️
 
@@ -15,6 +15,10 @@ With remote summer internships starting in about a month, I wanted to share a fe
 - Don't be embarrassed about asking for help. To get where they are now, your teammates had to go through the onboarding process and stuff you're facing now. They're willing to help.
 
 - Define with your team when you should ask for help. You'll run into obstacles every day. Some might take 30 minutes to solve, and others might take forever. Find a balance - You don't want to interrupt the whole team every 30 minutes, but don't let one problem turn your internship into an unpleasant experience.
+
+<p align="left">
+  <img width="64" height="64" src="https://github.com/fejes713/remote-internship-advice/blob/master/assets/duck.png">
+</p>
 
 - Practice [rubber duck debugging](https://rubberduckdebugging.com/). You don't want to schedule a 30-minute meeting with your team and 2 minutes into explaining the problem you get to the _aha!_ moment where you figure out the solution to the problem.
 
