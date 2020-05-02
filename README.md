@@ -35,3 +35,9 @@ With remote summer internships starting in about a month, I wanted to share a fe
   - > Moving to a different side of the globe and doing an internship in San Francisco was a big move for me this year. A big part of it was getting to know awesome people from top US / Canada Universities, exchanging our career experiences, having fun, and planning for the future. Just because the internship had to be a remote one due to COVID-19, don't let it stop you from new connections.
 
 - If something isn't right, don't be silent. Your teammates aren't wizards, and they can't read your mind. If something is bothering you, you're stuck or not comfortable doing something. Just talk. Everybody is willing to help, but you need to let them know first.
+
+- Step up your asynchronous communication game. With your teammates not being in the same office, or even the same time zone, it's essential to give your best at communicating things.
+  - Go over long domain-specific messages you're about to send. Make sure there is enough information for the other side to understand you. If possible, use markdown-like syntax inside Slack for better formatting.
+  - Don't be late for meetings. If in a loud environment and not speaking, mute your microphone to avoid unnecessary background noises
+  - If possible, show instead of write. Use toolks like [Loom](https://www.loom.com/) or [illuminati](https://github.com/zeke/illuminati) to record a short clip of your screen with a voiceover where you cover the problem or progress. This approach will help your mentor understand your process of thinking much more than a huge chunk of plain text.
+  - Write clear and meaningful commit messages and nicely structured PRs. Self-review pull requests before sending them over for review and make sure they don't include mistakes such as typos.
