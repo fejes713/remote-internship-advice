@@ -6,7 +6,7 @@
   <img width="256" height="256" src="https://github.com/fejes713/remote-internship-advice/blob/master/assets/bridge.png">
 </p>
 
-With remote summer internships starting in about a month, I wanted to share a few pieces of advice that helped me have an enjoyable experience and get return offers from last 4 internships and land my 5th at @github this summer.
+With many remote summer internships starting in about a month, I wanted to share a few pieces of advice that helped me have an enjoyable experience and get return offers from last 4 internships and land my 5th at GitHub this summer.
 
 - Reach out to your manager if you haven't already, say hi, introduce yourself and share the excitement about the internship. Don't overcomplicate it; they're just individuals like you and me. Getting to know people before starting to work with them is a great start.
 
@@ -26,6 +26,8 @@ With remote summer internships starting in about a month, I wanted to share a fe
 
 - Most likely, you won't be micromanaged, but it's a good idea to keep everybody updated on your progress. Doing this, your team might offer some useful advice based on your progress or prepare you for upcoming obstacles in the task.
 
+- If something isn't right, don't be silent. Your teammates aren't wizards, and they can't read your mind. If something is bothering you, you're stuck or not comfortable doing something. Just talk. Everybody is willing to help, but you need to let them know first.
+
 - If time allows it, plan virtual pair-programming sessions with your teammates. Once a week, pick a short task and try to solve it together. Doing this, you will pick up domain-specific knowledge faster, learn how to navigate new codebase efficiently, and improve your problem-solving skills.
 
 - Socialize with other team members on Slack channels like _#random_ and _#watercooler_. Just because you're new to the team doesn't mean you shouldn't participate in casual conversations with other employees. They are social beings too and are probably looking forward to getting to know better new colleagues.
@@ -34,10 +36,10 @@ With remote summer internships starting in about a month, I wanted to share a fe
 
   - > Moving to a different side of the globe and doing an internship in San Francisco was a big move for me this year. A big part of it was getting to know awesome people from top US / Canada Universities, exchanging our career experiences, having fun, and planning for the future. Just because the internship had to be a remote one due to COVID-19, don't let it stop you from new connections.
 
-- If something isn't right, don't be silent. Your teammates aren't wizards, and they can't read your mind. If something is bothering you, you're stuck or not comfortable doing something. Just talk. Everybody is willing to help, but you need to let them know first.
-
 - Step up your asynchronous communication game. With your teammates not being in the same office, or even the same time zone, it's essential to give your best at communicating things.
   - Go over long domain-specific messages you're about to send. Make sure there is enough information for the other side to understand you. If possible, use markdown-like syntax inside Slack for better formatting.
   - Don't be late for meetings. If in a loud environment and not speaking, mute your microphone to avoid unnecessary background noises
   - If possible, show instead of write. Use toolks like [Loom](https://www.loom.com/) or [illuminati](https://github.com/zeke/illuminati) to record a short clip of your screen with a voiceover where you cover the problem or progress. This approach will help your mentor understand your process of thinking much more than a huge chunk of plain text.
   - Write clear and meaningful commit messages and nicely structured PRs. Self-review pull requests before sending them over for review and make sure they don't include mistakes such as typos.
+
+_Repository maintained by [@fejes713](https://twitter.com/fejes713). Contributors welcome._
