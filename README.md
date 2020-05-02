@@ -16,8 +16,8 @@ With remote summer internships starting in about a month, I wanted to share a fe
 
 - Define with your team when you should ask for help. You'll run into obstacles every day. Some might take 30 minutes to solve, and others might take forever. Find a balance - You don't want to interrupt the whole team every 30 minutes, but don't let one problem turn your internship into an unpleasant experience.
 
-<p align="left">
-  <img width="64" height="64" src="https://github.com/fejes713/remote-internship-advice/blob/master/assets/duck.png">
+<p align="center">
+  <img width="32" height="32" src="https://github.com/fejes713/remote-internship-advice/blob/master/assets/duck.png">
 </p>
 
 - Practice [rubber duck debugging](https://rubberduckdebugging.com/). You don't want to schedule a 30-minute meeting with your team and 2 minutes into explaining the problem you get to the _aha!_ moment where you figure out the solution to the problem.
@@ -28,7 +28,7 @@ With remote summer internships starting in about a month, I wanted to share a fe
 
 - If time allows it, plan virtual pair-programming sessions with your teammates. Once a week, pick a short task and try to solve it together. Doing this, you will pick up domain-specific knowledge faster, learn how to navigate new codebase efficiently, and improve your problem-solving skills.
 
-- Socialize with other team members on Slack channels like _#random_ and _#watercooler_.
+- Socialize with other team members on Slack channels like _#random_ and _#watercooler_. Just because you're new to the team doesn't mean you shouldn't participate in casual conversations with other employees. They are social beings too and are probably looking forward to getting to know better new colleagues.
 
 - Meet and share the experience with other interns. Just because you don't share the same office space doesn't mean you shouldn't meet each other. Organize weekly chats, talk about work, life, favorite movies, shows, games, books. Make a shared Spotify playlist. **Socialize**.
 
